@@ -1,4 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+![nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan29849&show_icons=true&theme=radical)
+
 
 <!--
 **nathan29849/nathan29849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
